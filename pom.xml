@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>fun.lww.springbootmybatisgenerator</groupId>
-    <artifactId>springbootmybatisgenerator</artifactId>
+    <groupId>fun.lww.springbootmybatisplusgenerator</groupId>
+    <artifactId>springbootmybatisplusgenerator</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>springbootmybatisgenerator</name>
-    <description>springboot + Mybatis + Generator</description>
+    <name>springbootmybatisplusgenerator</name>
+    <description>springboot + MybatisPlus + 代码生成器</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
