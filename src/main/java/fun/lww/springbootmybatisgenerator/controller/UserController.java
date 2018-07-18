@@ -21,7 +21,7 @@ import java.util.List;
 public class UserController {
 
     @Autowired
-    IUserService userService;
+    private IUserService userService;
 
     @RequestMapping("/findAll")
     public List<User> findAll() {
